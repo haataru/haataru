@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Mark - system architect(by mindset)
 
-![Header]([https://i.pinimg.com/736x/f2/6c/03/f26c037c7785d0cdd3e371ebdce85df7.jpg](https://i.pinimg.com/1200x/3f/bc/1d/3fbc1d7cb5bcaed1d0b2cbe8b734f787.jpg))
+![Header](https://i.pinimg.com/1200x/3f/bc/1d/3fbc1d7cb5bcaed1d0b2cbe8b734f787.jpg)
 
 I think in systems, not just in code.
 
