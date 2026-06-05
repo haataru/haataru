@@ -1,5 +1,5 @@
 ### Hello there! 👋
 
 - 🎩 haataru, he/him
-- 💻 System Architect, now i'm going deeper into high-load.
+- 💻 Low-level engineer: compilers, databases, kernels, networking.
 - 🧭 Get more info on [my site](https://xtc.su/)
